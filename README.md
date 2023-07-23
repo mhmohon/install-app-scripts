@@ -1,5 +1,5 @@
 # install-app-scripts
-Scripts for automatic install of all my necessary programs, inspired of repository
+Auto Install App Scripts for Linux
 
 ## Tested on :
 - Linux Mint 21.1 Cinnamon
